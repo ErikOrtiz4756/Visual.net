@@ -73,11 +73,11 @@ namespace Programa1{
             string? autor;
             string? año;
             string? formato;
-            nombre = pedirValorString("Escribe el Nombre de la Unidad a Editar");
+            nombre = pedirValorString("Escribe el Nombre de la Pelicula a Editar");
             Peliculas? PeliculaEdicion = _peliculas.FirstOrDefault(u => u.nombre == nombre);
             if (PeliculaEdicion == null)
             {
-                Console.WriteLine("No se encontró la Unidad. Presiona 'Enter' para continuar...");
+                Console.WriteLine("No se encontró la pelicula. Presiona 'Enter' para continuar...");
 
             }
             else
@@ -103,12 +103,12 @@ namespace Programa1{
             Peliculas? PeliculaEliminar = _peliculas.FirstOrDefault(u => u.nombre == nombre);
             if (PeliculaEliminar == null)
             {
-                Console.WriteLine("No se encontró la Unidad. Presiona 'Enter' para continuar...");
+                Console.WriteLine("No se encontró la pelicula. Presiona 'Enter' para continuar...");
             }
             else
             {
                 _peliculas.Remove(PeliculaEliminar);
-                Console.WriteLine($"La unidad con id: {PeliculaEliminar.nombre} se eliminó correctamente. Presiona 'Enter' para continuar...");
+                Console.WriteLine($"La pelicula con id: {PeliculaEliminar.nombre} se eliminó correctamente. Presiona 'Enter' para continuar...");
             }
 
             Console.ReadLine();
