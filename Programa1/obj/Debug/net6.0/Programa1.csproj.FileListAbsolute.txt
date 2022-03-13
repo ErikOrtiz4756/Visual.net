@@ -1,0 +1,15 @@
+C:\Users\VordtKs\OneDrive\Escritorio\Tarea2\Visual.net\Programa1\bin\Debug\net6.0\Programa1.exe
+C:\Users\VordtKs\OneDrive\Escritorio\Tarea2\Visual.net\Programa1\bin\Debug\net6.0\Programa1.deps.json
+C:\Users\VordtKs\OneDrive\Escritorio\Tarea2\Visual.net\Programa1\bin\Debug\net6.0\Programa1.runtimeconfig.json
+C:\Users\VordtKs\OneDrive\Escritorio\Tarea2\Visual.net\Programa1\bin\Debug\net6.0\Programa1.dll
+C:\Users\VordtKs\OneDrive\Escritorio\Tarea2\Visual.net\Programa1\bin\Debug\net6.0\Programa1.pdb
+C:\Users\VordtKs\OneDrive\Escritorio\Tarea2\Visual.net\Programa1\obj\Debug\net6.0\Programa1.csproj.AssemblyReference.cache
+C:\Users\VordtKs\OneDrive\Escritorio\Tarea2\Visual.net\Programa1\obj\Debug\net6.0\Programa1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VordtKs\OneDrive\Escritorio\Tarea2\Visual.net\Programa1\obj\Debug\net6.0\Programa1.AssemblyInfoInputs.cache
+C:\Users\VordtKs\OneDrive\Escritorio\Tarea2\Visual.net\Programa1\obj\Debug\net6.0\Programa1.AssemblyInfo.cs
+C:\Users\VordtKs\OneDrive\Escritorio\Tarea2\Visual.net\Programa1\obj\Debug\net6.0\Programa1.csproj.CoreCompileInputs.cache
+C:\Users\VordtKs\OneDrive\Escritorio\Tarea2\Visual.net\Programa1\obj\Debug\net6.0\Programa1.dll
+C:\Users\VordtKs\OneDrive\Escritorio\Tarea2\Visual.net\Programa1\obj\Debug\net6.0\refint\Programa1.dll
+C:\Users\VordtKs\OneDrive\Escritorio\Tarea2\Visual.net\Programa1\obj\Debug\net6.0\Programa1.pdb
+C:\Users\VordtKs\OneDrive\Escritorio\Tarea2\Visual.net\Programa1\obj\Debug\net6.0\Programa1.genruntimeconfig.cache
+C:\Users\VordtKs\OneDrive\Escritorio\Tarea2\Visual.net\Programa1\obj\Debug\net6.0\ref\Programa1.dll
