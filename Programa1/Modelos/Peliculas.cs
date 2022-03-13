@@ -53,7 +53,7 @@ namespace Programa1.Modelos{
             set { _formato = value; }
         }
 
-                public override string ToString()
+        public override string ToString()
         {
             return $"Nombre: {_nombre}, Genero: {genero}, Autor: {autor}, Año: {año}, Formato: {formato}";
         }
