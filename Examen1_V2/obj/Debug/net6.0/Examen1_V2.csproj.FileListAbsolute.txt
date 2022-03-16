@@ -1,0 +1,15 @@
+C:\Users\VordtKs\OneDrive\Escritorio\Tarea2\Visual.net\Examen1_V2\bin\Debug\net6.0\Examen1_V2.exe
+C:\Users\VordtKs\OneDrive\Escritorio\Tarea2\Visual.net\Examen1_V2\bin\Debug\net6.0\Examen1_V2.deps.json
+C:\Users\VordtKs\OneDrive\Escritorio\Tarea2\Visual.net\Examen1_V2\bin\Debug\net6.0\Examen1_V2.runtimeconfig.json
+C:\Users\VordtKs\OneDrive\Escritorio\Tarea2\Visual.net\Examen1_V2\bin\Debug\net6.0\Examen1_V2.dll
+C:\Users\VordtKs\OneDrive\Escritorio\Tarea2\Visual.net\Examen1_V2\bin\Debug\net6.0\Examen1_V2.pdb
+C:\Users\VordtKs\OneDrive\Escritorio\Tarea2\Visual.net\Examen1_V2\obj\Debug\net6.0\Examen1_V2.csproj.AssemblyReference.cache
+C:\Users\VordtKs\OneDrive\Escritorio\Tarea2\Visual.net\Examen1_V2\obj\Debug\net6.0\Examen1_V2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VordtKs\OneDrive\Escritorio\Tarea2\Visual.net\Examen1_V2\obj\Debug\net6.0\Examen1_V2.AssemblyInfoInputs.cache
+C:\Users\VordtKs\OneDrive\Escritorio\Tarea2\Visual.net\Examen1_V2\obj\Debug\net6.0\Examen1_V2.AssemblyInfo.cs
+C:\Users\VordtKs\OneDrive\Escritorio\Tarea2\Visual.net\Examen1_V2\obj\Debug\net6.0\Examen1_V2.csproj.CoreCompileInputs.cache
+C:\Users\VordtKs\OneDrive\Escritorio\Tarea2\Visual.net\Examen1_V2\obj\Debug\net6.0\Examen1_V2.dll
+C:\Users\VordtKs\OneDrive\Escritorio\Tarea2\Visual.net\Examen1_V2\obj\Debug\net6.0\refint\Examen1_V2.dll
+C:\Users\VordtKs\OneDrive\Escritorio\Tarea2\Visual.net\Examen1_V2\obj\Debug\net6.0\Examen1_V2.pdb
+C:\Users\VordtKs\OneDrive\Escritorio\Tarea2\Visual.net\Examen1_V2\obj\Debug\net6.0\Examen1_V2.genruntimeconfig.cache
+C:\Users\VordtKs\OneDrive\Escritorio\Tarea2\Visual.net\Examen1_V2\obj\Debug\net6.0\ref\Examen1_V2.dll
