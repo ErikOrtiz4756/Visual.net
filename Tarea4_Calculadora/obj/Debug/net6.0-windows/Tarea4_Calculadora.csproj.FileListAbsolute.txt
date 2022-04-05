@@ -1,0 +1,15 @@
+C:\Users\VordtKs\OneDrive\Escritorio\Tarea4_Calculadora\bin\Debug\net6.0-windows\Tarea4_Calculadora.exe
+C:\Users\VordtKs\OneDrive\Escritorio\Tarea4_Calculadora\bin\Debug\net6.0-windows\Tarea4_Calculadora.deps.json
+C:\Users\VordtKs\OneDrive\Escritorio\Tarea4_Calculadora\bin\Debug\net6.0-windows\Tarea4_Calculadora.runtimeconfig.json
+C:\Users\VordtKs\OneDrive\Escritorio\Tarea4_Calculadora\bin\Debug\net6.0-windows\Tarea4_Calculadora.dll
+C:\Users\VordtKs\OneDrive\Escritorio\Tarea4_Calculadora\bin\Debug\net6.0-windows\Tarea4_Calculadora.pdb
+C:\Users\VordtKs\OneDrive\Escritorio\Tarea4_Calculadora\obj\Debug\net6.0-windows\Tarea4_Calculadora.csproj.AssemblyReference.cache
+C:\Users\VordtKs\OneDrive\Escritorio\Tarea4_Calculadora\obj\Debug\net6.0-windows\Tarea4_Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VordtKs\OneDrive\Escritorio\Tarea4_Calculadora\obj\Debug\net6.0-windows\Tarea4_Calculadora.AssemblyInfoInputs.cache
+C:\Users\VordtKs\OneDrive\Escritorio\Tarea4_Calculadora\obj\Debug\net6.0-windows\Tarea4_Calculadora.AssemblyInfo.cs
+C:\Users\VordtKs\OneDrive\Escritorio\Tarea4_Calculadora\obj\Debug\net6.0-windows\Tarea4_Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\VordtKs\OneDrive\Escritorio\Tarea4_Calculadora\obj\Debug\net6.0-windows\Tarea4_Calculadora.dll
+C:\Users\VordtKs\OneDrive\Escritorio\Tarea4_Calculadora\obj\Debug\net6.0-windows\refint\Tarea4_Calculadora.dll
+C:\Users\VordtKs\OneDrive\Escritorio\Tarea4_Calculadora\obj\Debug\net6.0-windows\Tarea4_Calculadora.pdb
+C:\Users\VordtKs\OneDrive\Escritorio\Tarea4_Calculadora\obj\Debug\net6.0-windows\Tarea4_Calculadora.genruntimeconfig.cache
+C:\Users\VordtKs\OneDrive\Escritorio\Tarea4_Calculadora\obj\Debug\net6.0-windows\ref\Tarea4_Calculadora.dll
