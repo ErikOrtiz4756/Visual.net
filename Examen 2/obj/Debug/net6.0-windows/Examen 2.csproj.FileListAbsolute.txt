@@ -1,0 +1,15 @@
+C:\Users\VordtKs\OneDrive\Escritorio\Examen 2\bin\Debug\net6.0-windows\Examen 2.exe
+C:\Users\VordtKs\OneDrive\Escritorio\Examen 2\bin\Debug\net6.0-windows\Examen 2.deps.json
+C:\Users\VordtKs\OneDrive\Escritorio\Examen 2\bin\Debug\net6.0-windows\Examen 2.runtimeconfig.json
+C:\Users\VordtKs\OneDrive\Escritorio\Examen 2\bin\Debug\net6.0-windows\Examen 2.dll
+C:\Users\VordtKs\OneDrive\Escritorio\Examen 2\bin\Debug\net6.0-windows\Examen 2.pdb
+C:\Users\VordtKs\OneDrive\Escritorio\Examen 2\obj\Debug\net6.0-windows\Examen 2.csproj.AssemblyReference.cache
+C:\Users\VordtKs\OneDrive\Escritorio\Examen 2\obj\Debug\net6.0-windows\Examen 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VordtKs\OneDrive\Escritorio\Examen 2\obj\Debug\net6.0-windows\Examen 2.AssemblyInfoInputs.cache
+C:\Users\VordtKs\OneDrive\Escritorio\Examen 2\obj\Debug\net6.0-windows\Examen 2.AssemblyInfo.cs
+C:\Users\VordtKs\OneDrive\Escritorio\Examen 2\obj\Debug\net6.0-windows\Examen 2.csproj.CoreCompileInputs.cache
+C:\Users\VordtKs\OneDrive\Escritorio\Examen 2\obj\Debug\net6.0-windows\Examen 2.dll
+C:\Users\VordtKs\OneDrive\Escritorio\Examen 2\obj\Debug\net6.0-windows\refint\Examen 2.dll
+C:\Users\VordtKs\OneDrive\Escritorio\Examen 2\obj\Debug\net6.0-windows\Examen 2.pdb
+C:\Users\VordtKs\OneDrive\Escritorio\Examen 2\obj\Debug\net6.0-windows\Examen 2.genruntimeconfig.cache
+C:\Users\VordtKs\OneDrive\Escritorio\Examen 2\obj\Debug\net6.0-windows\ref\Examen 2.dll
